@@ -1,1 +1,36 @@
 <sudoku>
+    <region name="Reg1">
+        <row name="Row1">
+            <col name="Col1">1</col>
+            <col name="Col2">2</col>
+            <col name="Col3">3</col>
+        </row>
+        <row name="Row2">
+            <col name="Col1">4</col>
+            <col name="Col2">5</col>
+            <col name="Col3">6</col>
+        </row>
+        <row name="Row3">
+            <col name="Col1">7</col>
+            <col name="Col2">8</col>
+            <col name="Col3">9</col>
+        </row>
+    </region>
+    <region name="Reg2">
+        <row name="Row1">
+            <col name="Col4">4</col>
+            <col name="Col5">5</col>
+            <col name="Col6">6</col>
+        </row>
+        <row name="Row2">
+            <col name="Col1">7</col>
+            <col name="Col2">8</col>
+            <col name="Col3">9</col>
+        </row>
+        <row name="Row3">
+            <col name="Col1">1</col>
+            <col name="Col2">2</col>
+            <col name="Col3">3</col>
+        </row>
+    </region>
+</sudoku>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <!-- Déclaration des types, éléments et attributs -->
+
+    <xsd:element name="sudoku">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="region" minOccurs="3" maxOccurs="3">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="row" minOccurs="3" maxOccurs="3">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="col" minOccurs="3" maxOccurs="3">
+                                            <xsd:complexType>
+                                                <xsd:restriction base="xsd:integer">
+                                                    <xsd:minInclusive value="1" />
+                                                    <xsd:maxInclusive value="9" />
+                                                </xsd:restriction>
+                                                <xsd:attribute name="name" type="xsd:sting">
+                                            </xsd:simpleType>
+                                        </xsd:element>
+                                    </xsd:sequence>
+                                    <xsd:attribute name="name" type="xsd:string"/>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                        <xsd:attribute name="name" type="xsd:string"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+            <xsd:attribute name="name" type="xsd:string"/>
+        </xsd:complexType>
+    </xsd:element>
+
+</xsd:schema>
+
