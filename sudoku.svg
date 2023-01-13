@@ -17,7 +17,7 @@
   <rect x="100" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="0" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row3
   <rect x="50" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
-  <rect x="100" y="A00" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="100" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="150" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //Reg2 row1
   <rect x="200" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="250" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
@@ -36,4 +36,32 @@
   <rect x="300" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row3
   <rect x="350" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="400" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+
+  <rect x="0" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>   //Reg4 row4
+  <rect x="50" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="100" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="0" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row5
+  <rect x="50" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="100" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="0" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row6
+  <rect x="50" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="100" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="150" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //Reg5 row4
+  <rect x="200" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="250" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="150" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row5
+  <rect x="200" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="250" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="150" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row6
+  <rect x="200" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="250" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="300" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //Reg6 row4
+  <rect x="350" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="400" y="150" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="300" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row5
+  <rect x="350" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="400" y="200" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="300" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row6
+  <rect x="350" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="400" y="250" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   </svg>
