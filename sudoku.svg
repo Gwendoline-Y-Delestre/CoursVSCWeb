@@ -24,16 +24,16 @@
   <rect x="150" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row2
   <rect x="200" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="250" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
-  <rect x="150" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row3
-  <rect x="200" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
-  <rect x="250" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="150" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row3
+  <rect x="200" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="250" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="300" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //Reg3 row1
   <rect x="350" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="400" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="300" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row2
   <rect x="350" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="400" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
-  <rect x="300" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row3
-  <rect x="350" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
-  <rect x="400" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="300" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/> //row3
+  <rect x="350" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="400" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   </svg>
