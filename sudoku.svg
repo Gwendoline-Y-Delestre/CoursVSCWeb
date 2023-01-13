@@ -10,6 +10,8 @@
   <rect x="150" y="300" width="150" height="150" style="fill:none; stroke:black; stroke-width:2"/>
   <rect x="300" y="300" width="150" height="150" style="fill:none; stroke:black; stroke-width:2"/> //région
   <rect x="0" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="50" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
+  <rect x="100" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="0" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="0" y="100" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="50" y="50" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
