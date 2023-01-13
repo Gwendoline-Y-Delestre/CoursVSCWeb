@@ -13,7 +13,7 @@
 
 
   <rect x="0" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>   //Reg1 row1
-  <text x="20" y="20" font-size="30" fill="black">1</text>
+  <text x="20" y="30" font-size="30" fill="black">1</text>
   <rect x="50" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
   <rect x="100" y="0" width="50" height="50" style="fill:none; stroke:black; stroke-width:1"/>
 
